@@ -131,7 +131,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 **Bittu Sharma**
 - GitHub: [@bittush8789](https://github.com/bittush8789)
-- Portfolio: [DevOps Portfolio](https://vantage.csw.lenovo.com/v1/web/containerwidget/default/)
+- Portfolio: [DevOps Portfolio](https://bittullmops.vercel.app/)
 
 ---
 *Created with ❤️ for the DevOps Community.*
